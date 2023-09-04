@@ -1,0 +1,13 @@
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\bin\Debug\netcoreapp3.1\ArrEx2022.exe
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\bin\Debug\netcoreapp3.1\ArrEx2022.deps.json
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\bin\Debug\netcoreapp3.1\ArrEx2022.runtimeconfig.json
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\bin\Debug\netcoreapp3.1\ArrEx2022.runtimeconfig.dev.json
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\bin\Debug\netcoreapp3.1\ArrEx2022.dll
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\bin\Debug\netcoreapp3.1\ArrEx2022.pdb
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.csprojAssemblyReference.cache
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.AssemblyInfoInputs.cache
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.AssemblyInfo.cs
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.csproj.CoreCompileInputs.cache
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.dll
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.pdb
+C:\Users\ramim\source\repos\ArrEx2022\ArrEx2022\obj\Debug\netcoreapp3.1\ArrEx2022.genruntimeconfig.cache
